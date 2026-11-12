@@ -1,2 +1,5 @@
-# foxworks-theme-manager
-A Windows app for applying and restoring desktop themes.
+# Vulphexis Theme Manager
+
+A Windows app for applying, creating, sharing, and restoring desktop themes.
+
+[Downloads and verification](docs/index.md)
