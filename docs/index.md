@@ -8,15 +8,15 @@ Apply and restore Windows desktop themes. Choose which parts to use, including w
 
 ## Download v1.0.2 for Windows x64
 
-- **Installer.** Run Setup, then open Vulphexis Theme Manager from Start. [Download the installer](https://github.com/sheycara/foxworks-theme-manager/releases/download/V1.0.2/Vulphexis_Theme_Manager_Setup_v1.0.2.exe)
-- **Portable ZIP.** Extract the entire ZIP. Keep the `_internal` folder beside `FoxWorksThemeManager.exe`, then run the executable. [Download the portable ZIP](https://github.com/sheycara/foxworks-theme-manager/releases/download/V1.0.2/Vulphexis_Theme_Manager_Windows_x64_v1.0.2.zip)
+- **Installer.** Run Setup, then open Vulphexis Theme Manager from Start. [Download the installer](https://github.com/sheycara/vulphexis-theme-manager/releases/download/V1.0.2/Vulphexis_Theme_Manager_Setup_v1.0.2.exe)
+- **Portable ZIP.** Extract the entire ZIP. Keep the `_internal` folder beside `FoxWorksThemeManager.exe`, then run the executable. [Download the portable ZIP](https://github.com/sheycara/vulphexis-theme-manager/releases/download/V1.0.2/Vulphexis_Theme_Manager_Windows_x64_v1.0.2.zip)
 
 ## SHA-256 checksums
 
 - Installer: `A5A30C7C44880E91CE3BF3B878AB55F45E722A819F4144D76810B7CD581B22D7`
 - Portable ZIP: `8A2735D1C0F71B158BA47ED989F266C7B8EB803C033B7FDC94A3524E3180AC63`
 
-[Release notes](https://github.com/sheycara/foxworks-theme-manager/releases/tag/V1.0.2) · [Previous release under the FoxWorks name](https://github.com/sheycara/foxworks-theme-manager/releases/tag/v1.0.1)
+[Release notes](https://github.com/sheycara/vulphexis-theme-manager/releases/tag/V1.0.2) · [Previous release under the FoxWorks name](https://github.com/sheycara/vulphexis-theme-manager/releases/tag/v1.0.1)
 
 ## Third-party licenses and source
 
